@@ -23,3 +23,11 @@
     e. git log -p #see difference 
     
     f. git log branch_name 
+    
+3. **git reset**
+
+    a. git reset HEAD -filename ##如果是撤销某个文件或文件夹
+    
+4. **git rm**
+
+    a.git rm --cached <added_file_to_undo>
