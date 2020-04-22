@@ -31,3 +31,7 @@
 4. **git rm**
 
     a.git rm --cached <added_file_to_undo>
+
+5. **apply patch**
+
+    a. git apply --check file.diff and then git apply file.diff  ##refer [link](https://blog.csdn.net/salmon_zhang/article/details/97015801)
