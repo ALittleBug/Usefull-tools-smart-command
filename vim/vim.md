@@ -18,3 +18,31 @@
 
     按d键就可全部取消注释
     ```
+    ```
+	• cancel number
+		○ :set nonu
+		○ set pastetoggle=<F9>  to avoid auto indent
+	• find and replace
+		○ :'<,'>s/foo/bar/g
+	
+	• 对于已保存的文件，可以使用下面的方法进行空格和TAB的替换： 
+	TAB替换为空格： 
+		○ :set ts=4
+		○ :set expandtab
+		○ :%retab!
+	
+	空格替换为TAB：
+	:set ts=4
+	:set noexpandtab
+	:%retab!
+	
+	• 全选正确的答案是： 
+	ggVG 
+	
+	• 跳转到上/下一次位置
+		Ctrl + O
+		Ctrl + I
+	• 跳转到匹配括号 https://blog.csdn.net/caisini_vc/article/details/38351133
+		
+	• :'<,'>s:\%u00a0: :g
+```
