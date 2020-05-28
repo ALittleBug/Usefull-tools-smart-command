@@ -42,7 +42,7 @@
 	• 跳转到上/下一次位置
 		Ctrl + O
 		Ctrl + I
-	• 跳转到匹配括号 https://blog.csdn.net/caisini_vc/article/details/38351133
+	• 跳转到匹配括号 [link](https://blog.csdn.net/caisini_vc/article/details/38351133)
 		
 	• :'<,'>s:\%u00a0: :g
 ```
