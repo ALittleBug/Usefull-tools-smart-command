@@ -3,7 +3,11 @@
 * refer [link](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
 
   * bt
-
+* gdb tutorial
+  * refer [link](https://www.cs.umd.edu/~srhuang/teaching/cmsc212/gdb-tutorial-handout.pdf) [video](https://www.youtube.com/watch?v=bWH-nL7v5F4)
+  ```
+  layout next
+  ```
 * debug segfault
   ```
   1.genetate core dump file
