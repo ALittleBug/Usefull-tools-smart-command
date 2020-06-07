@@ -13,4 +13,4 @@
   ```
   
 * how to go the previous line of gdb
-  * 'reverse-step' 'reverse-next' refer [link](https://stackoverflow.com/questions/1206872/how-to-go-to-the-previous-line-in-gdb)
+  * `reverse-step` `reverse-next` refer [link](https://stackoverflow.com/questions/1206872/how-to-go-to-the-previous-line-in-gdb)
