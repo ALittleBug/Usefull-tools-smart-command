@@ -21,3 +21,5 @@
   
 * Useful tips for gdb
   * refer [link](https://wizardforcel.gitbooks.io/100-gdb-tips/examine-memory.html)
+  
+* [Debug stuck process](https://superuser.blog/debugging-stuck-process-linux/)
