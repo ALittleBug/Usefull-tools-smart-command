@@ -25,3 +25,7 @@
 * Debug stuck process
   * [Link 1](https://superuser.blog/debugging-stuck-process-linux/) and 
   [stack overflow link](https://stackoverflow.com/questions/3035134/debugging-utilities-for-linux-process-hang-issues)
+  
+* Generate core dump file
+  * ulimit -c
+  * echo "/tmp/core-%e-%p-%t" > /proc/sys/kernel/core_pattern
