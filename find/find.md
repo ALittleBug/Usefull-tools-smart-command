@@ -5,3 +5,6 @@
 2. find without recursion refer [link](https://stackoverflow.com/questions/3925337/find-without-recursion)
 
     a.find . -name “*.txt” -maxdepth 1
+2. delete the find files
+    find ./ -name *~ -delete
+
