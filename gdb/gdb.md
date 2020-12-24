@@ -63,3 +63,5 @@
     69: 000000000040078c    25 FUNC    WEAK   DEFAULT   14 _ZN7Point3D1xEv
 
   ```
+  * print register
+    * i r [rax]
