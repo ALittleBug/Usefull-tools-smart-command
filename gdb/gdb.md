@@ -65,3 +65,6 @@
   ```
   * print register
     * i r [rax]
+    
+  * disassemble 
+  * nexti/stepi b *address
