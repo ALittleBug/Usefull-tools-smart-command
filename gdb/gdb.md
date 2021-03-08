@@ -68,3 +68,12 @@
     
   * disassemble 
   * nexti/stepi b *address
+
+* debug backtrace
+  ```
+  /libxxx.so(+0x<offset>) [0x7fxxx v address]
+  1. using addr2line to find the function
+  2. use nm to find the funciton offset-func
+  3. use objdump -C -d -l libxxx to disassam the function
+  4. find the accurate location where the crash occur
+  ```
